@@ -1,0 +1,28 @@
+
+body {
+    background-image: url('../imiges/dash_img.jpg' );
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: #FFFFFF;
+}
+
+
+h1{
+
+    text-align: center;
+    
+    display: block;
+}
+a{
+    color: aliceblue;
+
+    display: block;
+    
+    text-align: center;
+}
+.left {
+    float: left;
+    width: 180px;
+    margin: 0;
+    padding: 1em;
+  }

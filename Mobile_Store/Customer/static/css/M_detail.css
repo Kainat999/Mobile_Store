@@ -1,0 +1,35 @@
+body{
+    background-image: url('../images/pexels-mohi-syed-50614.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 55%;
+}
+h1{
+
+    text-align: center;
+    
+    display: block;
+}
+h2{
+    text-align: center;
+    display: block;
+}
+a{
+    color: rgb(0, 0, 0);
+
+    display: block;
+    
+    text-align: left;
+}
+.left {
+    float: left;
+    width: 180px;
+    margin: 0;
+    padding: 1em;
+  }
+.mobile {
+    background-image: url('../images/th.jpeg');
+    float: left;
+    width: 150px;
+    margin-top: 70%;
+    padding: 1em;
+}  
