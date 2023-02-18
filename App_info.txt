@@ -1,0 +1,1 @@
+#Store all the important info about the app
